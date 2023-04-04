@@ -30,6 +30,5 @@ The main javasript, HTML and CSS files are named as 'outfit_today.js', 'outfit_t
 
 ## Acknowledgements
 
- - [Janne Kemppi](https://jannekemppi.wordpress.com/)
- - [Opiframe](https://opiframe.com/)
+ - [Janne Kemppi](https://jannekemppi.wordpress.com/) at [Opiframe](https://opiframe.com/)
     
